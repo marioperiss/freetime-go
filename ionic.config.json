@@ -1,0 +1,7 @@
+{
+  "name": "freetime-go",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
